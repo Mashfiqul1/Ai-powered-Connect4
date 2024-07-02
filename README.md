@@ -11,9 +11,13 @@ This project not only allows you to play Connect4 but also to challenge an AI op
 #Features
 
 i. Play Connect4 against the AI.
+
 ii. AI opponent with various difficulty levels.
+
 iii. Intuitive and easy-to-use interface.
+
 iv. Detailed game instructions and rules.
+
 v. Robust error handling.
 
 #Usage
@@ -23,7 +27,9 @@ After following the installation steps, you can start the game by running main.p
 #Game Rules
 
 > Players take turns dropping discs from the top into a seven-column, six-row grid.
+> 
 > The first player to connect four discs in a row, column, or diagonally wins.
+> 
 > If the grid is filled without any player connecting four discs, the game is a draw.
 
 #AI Implementation
